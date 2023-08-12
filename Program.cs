@@ -10,6 +10,6 @@ class Program
 
     static void Run(int speed = 300)
     {
-        Console.WriteLine("This is running with Speed "+ speed);
+        Console.WriteLine("This is running with Speed "+ speed +" PHR");
     }
 }
