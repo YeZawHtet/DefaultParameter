@@ -1,0 +1,15 @@
+D:\OJT\BackEnd Training\C# Examples\Encapsulation\DefaultParameter\bin\Debug\net6.0\DefaultParameter.exe
+D:\OJT\BackEnd Training\C# Examples\Encapsulation\DefaultParameter\bin\Debug\net6.0\DefaultParameter.deps.json
+D:\OJT\BackEnd Training\C# Examples\Encapsulation\DefaultParameter\bin\Debug\net6.0\DefaultParameter.runtimeconfig.json
+D:\OJT\BackEnd Training\C# Examples\Encapsulation\DefaultParameter\bin\Debug\net6.0\DefaultParameter.dll
+D:\OJT\BackEnd Training\C# Examples\Encapsulation\DefaultParameter\bin\Debug\net6.0\DefaultParameter.pdb
+D:\OJT\BackEnd Training\C# Examples\Encapsulation\DefaultParameter\obj\Debug\net6.0\DefaultParameter.csproj.AssemblyReference.cache
+D:\OJT\BackEnd Training\C# Examples\Encapsulation\DefaultParameter\obj\Debug\net6.0\DefaultParameter.GeneratedMSBuildEditorConfig.editorconfig
+D:\OJT\BackEnd Training\C# Examples\Encapsulation\DefaultParameter\obj\Debug\net6.0\DefaultParameter.AssemblyInfoInputs.cache
+D:\OJT\BackEnd Training\C# Examples\Encapsulation\DefaultParameter\obj\Debug\net6.0\DefaultParameter.AssemblyInfo.cs
+D:\OJT\BackEnd Training\C# Examples\Encapsulation\DefaultParameter\obj\Debug\net6.0\DefaultParameter.csproj.CoreCompileInputs.cache
+D:\OJT\BackEnd Training\C# Examples\Encapsulation\DefaultParameter\obj\Debug\net6.0\DefaultParameter.dll
+D:\OJT\BackEnd Training\C# Examples\Encapsulation\DefaultParameter\obj\Debug\net6.0\refint\DefaultParameter.dll
+D:\OJT\BackEnd Training\C# Examples\Encapsulation\DefaultParameter\obj\Debug\net6.0\DefaultParameter.pdb
+D:\OJT\BackEnd Training\C# Examples\Encapsulation\DefaultParameter\obj\Debug\net6.0\DefaultParameter.genruntimeconfig.cache
+D:\OJT\BackEnd Training\C# Examples\Encapsulation\DefaultParameter\obj\Debug\net6.0\ref\DefaultParameter.dll
